@@ -28,7 +28,9 @@ http://ramdajs.com/ Makes functional programming easier in JS. RamdaJS is a util
 
 http://postcss.org/ (tailwindcss as an implementation) Future-proof css, no need for preprocessor specific syntax, CSS Modules - so no more global CSS, lints your css to avoid errors for easier debugging
 
-Redis https://redis.io/ Redis is a lightning fast key-value data store. It’s is an open source, in-memory data structure store, used as a database, cache and message broker. It supports data structures such as strings, hashes, lists, sets, sorted sets with range queries, bitmaps, hyperloglogs and geospatial indexes with radius queries.
+## Redis
+
+https://redis.io/ Redis is a lightning fast key-value data store. It’s is an open source, in-memory data structure store, used as a database, cache and message broker. It supports data structures such as strings, hashes, lists, sets, sorted sets with range queries, bitmaps, hyperloglogs and geospatial indexes with radius queries.
 
 ## TypeScript
 
@@ -54,3 +56,8 @@ https://greensock.com/ Ultra high-performance, professional-grade animation for 
 
 https://developers.google.com/web/progressive-web-apps/
 Progressive web applications are web applications that load like regular web pages or websites but can offer the user functionality such as working offline, push notifications, and device hardware access traditionally available only to native applications
+
+## Angular
+
+https://angular.io/
+AngularJS is a JavaScript-based open-source front-end web application framework mainly maintained by Google and by a community of individuals and corporations to address many of the challenges encountered in developing single-page applications.
