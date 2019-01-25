@@ -49,3 +49,8 @@ https://d3js.org/ D3.js is a JavaScript library for manipulating documents based
 ## GreenSock
 
 https://greensock.com/ Ultra high-performance, professional-grade animation for the modern web. HTML5 javascript animation built for professionals, GreenSock is packed with features that make most other engines look like cheap toys. Animate colors, beziers, css properties, arrays, scrolls and lots more. Round values, smoothly reverse() on the fly, use relative values, automatically accommodate getter/setter functions, employ virtually any easing equation, and manage conflicting tweens like a pro. Define callbacks, tween in seconds or frames, build sequences effortlessly (even with overlapping tweens), repeat/yoyo and more.
+
+## PWA's (Progressive Web Apps)
+
+https://developers.google.com/web/progressive-web-apps/
+Progressive web applications are web applications that load like regular web pages or websites but can offer the user functionality such as working offline, push notifications, and device hardware access traditionally available only to native applications
